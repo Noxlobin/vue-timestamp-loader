@@ -1,7 +1,7 @@
 {
   "name": "vue-timestamp-loader",
   "version": "1.0.0",
-  "description": "",
+  "description": "vue-timestamp-loader is a easier way to seek the date in your vue app",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
