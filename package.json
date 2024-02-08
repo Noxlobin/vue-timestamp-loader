@@ -1,6 +1,6 @@
 {
   "name": "vue-timestamp-loader",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "vue-timestamp-loader is a easier way to seek the date in your vue app",
   "main": "index.js",
   "homepage": "https://github.com/noxlobin/vue-timestamp-loader",
